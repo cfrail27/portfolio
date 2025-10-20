@@ -216,7 +216,7 @@ const testimonials = [
     position: 'Vendedora deportiva Decathlon Majadahonda',
     photo: 'img/vir.png',
     text:
-      "This guy does everything he can to get the job done and done right. This is the second time I've hired him, and I'll hire him again in the future.",
+      "Trabajar con César es sinónimo de eficacia e innovación para llegar a conseguir esos retos que nos llevan el éxito. Su nivel de exigencia en los detalles marca la diferencia para alcanzar nuestros objetivos. Sus ganas de crear nuevos procedimientos que mejoran el rendimiento diario y sobre todo, su saber hacer en la formación y acompañamiento de las nuevas incorporaciones, hacen de él un pilar clave en el funcionamiento de nuestro equipo. Un verdadero placer trabajar y aprender cada día a su lado.",
   },
 ]
 let idx = 1
