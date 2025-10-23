@@ -193,28 +193,28 @@ const testimonials = [
     name: 'Diego Lozano',
     position: 'Merchandiser Fútbol Decathlon España',
     photo:
-      'img/diego2.png',
+      'img/diego2.webp',
     text:
       'Durante el tiempo que trabajé con César, demostró ser una persona altamente analítica, capaz de comprender y resolver situaciones complejas con gran rapidez. Su capacidad de anticiparse a los sucesos le permitió aportar soluciones preventivas muy valiosas para el equipo. Además su responsabilidad y compromiso fueron constantes en cada estrategia que llevamos a cabo. Sin duda César es un profesional confiable y de gran valor.',
   },
   {
     name: 'Pepa Castán',
     position: 'Directora Decathlon Logroño',
-    photo: 'img/pepa.png',
+    photo: 'img/pepa.webp',
     text:
       'César es un profesional altamente comprometido con su trabajo. Destaca por su sentido de la responsabilidad, asegurándose siempre de cumplir con los objetivos establecidos y de mantener la calidad en cada gesto. Es proactivo al identificar posibles problemas y propone soluciones antes de que afecten al equipo. Además su actitud confiable genera un ambiente de trabajo en el que sus compañeros pueden apoyarse en él.',
   },
   {
     name: 'Jose Luis Castillejo',
     position: 'Responsable Sección Decathlon Usera',
-    photo: 'img/jose.jpg',
+    photo: 'img/jose.webp',
     text:
       "Trabajar con César fué fundamental en mi desarrollo profesional. Desde el primer día me brindó su apoyo y conocimientos, transmitiéndome un alto nivel de exigencia y compromiso que me han permitido crecer dentro de la empresa. Destaco su capacidad de enseñar y acompañar con rigor y cercanía",
   },
   {
     name: 'Virginia Sáez',
     position: 'Vendedora deportiva Decathlon Majadahonda',
-    photo: 'img/vir.png',
+    photo: 'img/vir.webp',
     text:
       "Trabajar con César es sinónimo de eficacia e innovación para llegar a conseguir esos retos que nos llevan el éxito. Su nivel de exigencia en los detalles marca la diferencia para alcanzar nuestros objetivos. Sus ganas de crear nuevos procedimientos que mejoran el rendimiento diario y sobre todo, su saber hacer en la formación y acompañamiento de las nuevas incorporaciones, hacen de él un pilar clave en el funcionamiento de nuestro equipo. Un verdadero placer trabajar y aprender cada día a su lado.",
   },
