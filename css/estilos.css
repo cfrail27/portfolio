@@ -146,7 +146,7 @@ section{
 }
 .home-img .inicio-img .img-item img{
     position: absolute;
-    top: 3rem;
+    top: .1rem;
     display: block;
     width: 100%;
     object-fit: cover;
